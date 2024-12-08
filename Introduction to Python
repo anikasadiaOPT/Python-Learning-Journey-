@@ -2,17 +2,17 @@ Introduction to Python Step-by-Step Explanation
 
  1. Setting up Python
 
-    i)Step 1 Download Python
+    i)Step 1: Download Python
       Visit the official [Python website](https://www.python.org/downloads/)
       Download the latest version of Python for your operating system (Windows, macOS, or Linux).
 
-   ii)Step 2 Install Python
+   ii)Step 2: Install Python
       Run the installer you downloaded.
       Important Check the box that says Add Python to PATH before clicking Install.
       Click Customize Installation if you want to adjust installation features (optional).
       Complete the installation process.
 
-  iii)Step 3 Verify Installation
+  iii)Step 3: Verify Installation
       Open a terminal or command prompt.
       Type the following command to check the Python version
       
