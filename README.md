@@ -1,6 +1,6 @@
 # Python Learning Journey
 
-Welcome to my Python Learning Journey! This repository contains the code and projects I create as I learn Python through the **BroCode** YouTube channel. The topics covered range from basic syntax to advanced concepts like machine learning and web development. Feel free to explore and learn alongside me!
+Welcome to my Python Learning Journey! This repository contains the code and projects I create as I learn Python. The topics covered range from basic syntax to advanced concepts like machine learning. Feel free to explore and learn alongside me!
 
 ## Topics Covered
 
