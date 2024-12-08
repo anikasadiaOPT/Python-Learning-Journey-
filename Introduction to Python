@@ -1,0 +1,68 @@
+Introduction to Python Step-by-Step Explanation
+ 1. Setting up Python
+    Step 1 Download Python
+    Visit the official [Python website]( https://www.python.org/downloads/)
+    Download the latest version of Python for your operating system (Windows, macOS, or Linux).
+Step 2 Install Python
+Run the installer you downloaded.
+Important Check the box that says Add Python to PATH before clicking Install.
+Click Customize Installation if you want to adjust installation features (optional).
+Complete the installation process.
+Step 3 Verify Installation
+Open a terminal or command prompt.
+Type the following command to check the Python version
+bash
+Copy code
+python --version
+If installed correctly, it will display the Python version.
+2. Python IDEs (VS Code, PyCharm)
+Option 1 VS Code
+Download VS Code
+Visit httpscode.visualstudio.com and download VS Code.
+Install Python Extension
+Open VS Code and go to the Extensions Marketplace (Ctrl+Shift+X).
+Search for Python and install the official Microsoft Python extension.
+Set Up a Python Interpreter
+Open a Python file or create a new one (e.g., hello.py).
+Click on the bottom-left corner where it says Select Interpreter.
+Choose your installed Python version.
+Option 2 PyCharm
+Download PyCharm
+Visit httpswww.jetbrains.compycharm and download the Community (free) version.
+Install PyCharm
+Run the installer and complete the setup.
+Create a Python Project
+Open PyCharm and create a new project.
+Select the Python interpreter (PyCharm usually auto-detects Python if installed).
+Start Coding
+Open the main.py file and start writing Python code.
+3. Running Your First Python Program
+Step 1 Create a Python File
+Create a new file named hello.py in your preferred IDE or text editor.
+Step 2 Write Your Code
+Add the following code
+python
+Copy code
+print(Hello, World!)
+Step 3 Run the Python Program
+Using VS Code
+Right-click in the editor and choose Run Python File in Terminal.
+Alternatively, press F5 to debugrun.
+Using PyCharm
+Click the green play button in the top-right corner to run your program.
+Using Command PromptTerminal
+Open a terminal, navigate to the file's location, and run
+bash
+Copy code
+python hello.py
+Outcome
+The output will display
+Copy code
+Hello, World!
+You’ve successfully installed Python, set up an IDE, and run your first Python program! 🎉
+
+
+
+
+
+
