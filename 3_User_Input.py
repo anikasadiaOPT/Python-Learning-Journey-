@@ -23,10 +23,20 @@ width = float(input("Enter the width: "))
 area = length * width
 print(f"The Area of {length} and {width} is : {area} cm^2 ")
 
+
 #Exercise 2: Calculate the Temperature from Fahrenheit to Celcius
 f = float(input("Enter the Temperature in(°F): "))
 cel = ((f - 32)*5)/9
 print(f"Temperature Fahrenheit to Celcius: {cel}")
+
+#Excercise 3: Shopping Cart Program
+item = input("What item would you like to buy? ")
+quantity = int(input("How many would you want? "))
+price = float(input("How much is it? "))
+
+total = quantity * price
+print(f"The total price of {item}: {total}")
+
 
 
 
