@@ -2,6 +2,12 @@
 # Word game where anyone can create a story
 # by filling in the blanks with the random words
 
+print("One day,a {adjective1} {noun1} named {name1} decided to explore the {adjective2} {place1}.")
+print("Armed with a {noun2}, they set out on a journey.")
+print("Along the way, they met a {adjective3} {animal1} who offered them a {adjective4} {object1}.")
+print("Together, they fought a {adjective5} {creature1} and discovered a {adjective6} treasure that granted them {superpower}.")
+print("From then on, {name1} became the {adjective7} hero of {place1}.")
+
 
 adjective1 = input("Enter an adjective(description): ")
 noun1 = input("Enter a noun: ")
