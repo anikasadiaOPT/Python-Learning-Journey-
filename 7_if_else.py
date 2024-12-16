@@ -36,3 +36,17 @@ elif course_selection <15 and course_selection > 0:
 else:
    print("Enter a valid number")              # Handle zero or negative credits 
    
+
+#Exercise 4: Calculate the Temperature from Fahrenheit to Celcius
+#            & Celcius to Fahrenheit
+unit = input("Enter the unit in(F/C): ").strip().upper()
+temp = float(input("Enter the Temperature: "))
+if unit == "C":
+    F = round((9 * temp) / 5 + 32, 2)
+    print(f"Temperature Celcius to Fahrenheit: {F}°F")
+elif unit == "F":
+    C = round(((temp - 32)*5)/9,2)
+    print(f"Temperature Fahrenheit to Celcius: {C}°C")
+else:
+    print("Invalid")
+
