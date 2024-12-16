@@ -1,5 +1,4 @@
 # Logical Operators: Used to evaluate multiple conditions.
-# 
 # 1. OR: At least one condition must be True.
 #    Example: True or False → True
 
