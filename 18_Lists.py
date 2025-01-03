@@ -22,9 +22,7 @@ print(len(fruits))  # Output: 5
 print("Apple" in fruits)  # Output: True
 # Note: Avoid spaces in strings unless intentional, as they are counted as characters.
 
-# ----------------------------
 # Most Common Python List Operations
-# ----------------------------
 
 # Example List of Numbers
 num = [1, 2, 3, 4, 5, 5, 6, 7, 8]
