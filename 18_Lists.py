@@ -88,3 +88,5 @@ if 10 in num:
     print("Found")
 else:
     print("Not Found")  # Output: Not Found (10 was removed earlier)
+# clear(): clear the whole data
+print(num.clear())
